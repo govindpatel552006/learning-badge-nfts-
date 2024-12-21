@@ -1,4 +1,4 @@
-markdown
+
 
 LearnToEarn - A platform to reward users with NFTs and ERC-20 tokens as they achieve milestones.
 
